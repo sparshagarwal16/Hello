@@ -1,0 +1,7 @@
+	Git Command	Function
+	
+	git init	To initialize a git repository
+	git status	To check status of repository any time
+	git add	 	Tell git to track your changes
+	git commit 	Tell git to create a checkpoint/version
+	git push	To upload project to the cloud(GitHub) 
